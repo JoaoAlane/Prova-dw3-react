@@ -3,7 +3,7 @@
 Aplicação de lista de tarefas (To-Do List) feita com **React** e **Vite**.
 
 ## 🔎 Sobre
-Esse projeto permite o usuário cadastrar uma tarefas e marcar as que forem concluidas
+Esse projeto permite o usuário cadastrar tarefas e marcar as que forem concluidas
 
 ## 💻 Tecnologias
 * ⚛️ **React**

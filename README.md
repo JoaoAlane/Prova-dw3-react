@@ -1,4 +1,4 @@
-# ☀️ Sistema de Login e Cadastro ☀️
+# ☀️ Sistema de Cadastro de tarefas ☀️
 
 Aplicação de lista de tarefas (To-Do List) feita com **React** e **Vite**.
 
